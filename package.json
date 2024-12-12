@@ -17,6 +17,7 @@
   "devDependencies": {
     "@eslint/js": "^9.15.0",
     "@nx/eslint": "20.2.2",
+    "@nx/react": "^20.2.2",
     "@nx/vite": "20.2.2",
     "@nx/web": "20.2.2",
     "@types/react": "^18.3.12",
